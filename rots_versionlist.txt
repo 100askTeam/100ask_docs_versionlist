@@ -1,2 +1,2 @@
-freeRTOS教程
-RT-Thread教程
+freeRTOS
+RT-Thread
